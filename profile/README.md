@@ -1,7 +1,3 @@
-Here's a description for your GitHub repository:
-
----
-
 # Ichiloto 2D Game Engine
 
 **Ichiloto 2D Game Engine** is a lightweight, PHP-based game engine designed for creating 2D JRPG-style games using ASCII art in the terminal. Inspired by the classic gameplay of 90s JRPGs such as *Final Fantasy 1-6* and *Dragon Quest*, Ichiloto enables developers to craft immersive retro experiences directly in the console.
@@ -23,7 +19,3 @@ Ichiloto 2D Game Engine aims to provide an accessible platform for developers an
 - Scripting support for quests and events
 
 Join us on this journey to redefine retro gaming with the power of ASCII art and PHP!
-
---- 
-
-Would you like to add or adjust anything?
